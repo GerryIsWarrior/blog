@@ -1,8 +1,7 @@
 /**
  * Created by gerry.zhong on 2016/10/11.
  */
-var gerry =
-(function(){
+(function(window){
     //创建一个独立的对象，注入所有的方法，包括你想抛出去和不想抛出去的
     var tool = {
         AAAA:function(){},
@@ -103,6 +102,5 @@ var gerry =
         return tempObj;
     }
 
-    //抛出你希望抛出去的对象，因为你掌控了所有，哈哈。
-    return new outputObj();
-})();
+    window.gerry = new outputObj();
+})(this);
