@@ -137,5 +137,5 @@
  ### 支持信息
  本人，未婚，性别男，爱好女。   
  职业目标：全栈架构师   
- 博客园博客：http://www.cnblogs.com/GerryOfZhong/p/5948501.html
+ 博客园博客：http://www.cnblogs.com/GerryOfZhong/p/5948501.html       
  知乎专栏:https://zhuanlan.zhihu.com/zhongqiang
