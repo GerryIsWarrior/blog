@@ -11,7 +11,7 @@
    
 将在如下平台每次进行同步更新：  
 
-   1. 掘金：[仲强](https://juejin.cn/user/536217404582190/posts)     
+   1. 掘金：[掘金](https://juejin.cn/user/536217404582190/posts)     
    2. 知乎专栏：[前端路上的摸索](https://zhuanlan.zhihu.com/zhongqiang)        
    3. 当然还有这个github啦
 
